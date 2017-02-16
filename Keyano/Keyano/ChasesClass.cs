@@ -2,6 +2,6 @@
 {
     public class ChasesClass
     {
-        
+        int x = 2;
     }
 }
