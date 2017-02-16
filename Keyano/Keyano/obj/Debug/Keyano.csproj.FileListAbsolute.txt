@@ -1,0 +1,9 @@
+C:\Users\Kody\Documents\Keyano\Keyano\Keyano\bin\Debug\Keyano.exe.config
+C:\Users\Kody\Documents\Keyano\Keyano\Keyano\bin\Debug\Keyano.exe
+C:\Users\Kody\Documents\Keyano\Keyano\Keyano\bin\Debug\Keyano.pdb
+C:\Users\Kody\Documents\Keyano\Keyano\Keyano\obj\Debug\Keyano.csprojResolveAssemblyReference.cache
+C:\Users\Kody\Documents\Keyano\Keyano\Keyano\obj\Debug\Keyano.Properties.Resources.resources
+C:\Users\Kody\Documents\Keyano\Keyano\Keyano\obj\Debug\Keyano.csproj.GenerateResource.Cache
+C:\Users\Kody\Documents\Keyano\Keyano\Keyano\obj\Debug\Keyano.exe
+C:\Users\Kody\Documents\Keyano\Keyano\Keyano\obj\Debug\Keyano.pdb
+C:\Users\Kody\Documents\Keyano\Keyano\Keyano\obj\Debug\Keyano.Keyano.resources
