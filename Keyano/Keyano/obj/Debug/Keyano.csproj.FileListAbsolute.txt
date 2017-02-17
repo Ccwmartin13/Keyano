@@ -12,7 +12,6 @@ C:\Users\cmart\Desktop\Playground\Keyano\Keyano\Keyano\obj\Debug\Keyano.exe
 C:\Users\cmart\Desktop\Playground\Keyano\Keyano\Keyano\obj\Debug\Keyano.pdb
 C:\Users\cmart\Desktop\Playground\Keyano\Keyano\Keyano\bin\Debug\Keyano.exe
 C:\Users\cmart\Desktop\Playground\Keyano\Keyano\Keyano\bin\Debug\Keyano.pdb
-C:\Users\cmart\Desktop\Playground\Keyano\Keyano\Keyano\obj\Debug\Keyano.csprojResolveAssemblyReference.cache
 C:\Users\cmart\Desktop\Playground\Keyano\Keyano\Keyano\obj\Debug\Keyano.Keyano.resources
 C:\Users\cmart\Desktop\Playground\Keyano\Keyano\Keyano\obj\Debug\Keyano.Properties.Resources.resources
 C:\Users\cmart\Desktop\Playground\Keyano\Keyano\Keyano\obj\Debug\Keyano.csproj.GenerateResource.Cache
