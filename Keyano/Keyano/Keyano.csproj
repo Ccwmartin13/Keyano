@@ -81,8 +81,18 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Keyano Sounds\AKey.wav" />
-    <Content Include="Keyano Sounds\GKey.wav" />
+    <Content Include="Keyano Sounds\piano_A.wav" />
+    <Content Include="Keyano Sounds\piano_A_sharp.wav" />
+    <Content Include="Keyano Sounds\piano_B.wav" />
+    <Content Include="Keyano Sounds\piano_C_sharp.wav" />
+    <Content Include="Keyano Sounds\piano_D.wav" />
+    <Content Include="Keyano Sounds\piano_D_sharp.wav" />
+    <Content Include="Keyano Sounds\piano_E.wav" />
+    <Content Include="Keyano Sounds\piano_F.wav" />
+    <Content Include="Keyano Sounds\piano_F_sharp.wav" />
+    <Content Include="Keyano Sounds\piano_G.wav" />
+    <Content Include="Keyano Sounds\piano_G_sharp.wav" />
+    <Content Include="Keyano Sounds\piano_middle_C.wav" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
