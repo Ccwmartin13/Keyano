@@ -34,7 +34,6 @@ namespace Keyano
                 string fileName = "C:\\Users\\cmart\\Desktop\\Playground\\Keyano\\Keyano\\Keyano\\Keyano Sounds\\piano_A.wav";
                 //string fileName = @"C:\Users\Kody\Documents\Keyano\Keyano\Keyano\Keyano Sounds\piano_A.wav";
                 AKey.SoundLocation = fileName;
-                AKey.Load();
                 AKey.Play();
             }
             if (keyEventArgs.KeyCode == Keys.G && keyEventArgs.Shift)
@@ -43,7 +42,6 @@ namespace Keyano
                 string fileName = "C:\\Users\\cmart\\Desktop\\Playground\\Keyano\\Keyano\\Keyano\\Keyano Sounds\\piano_G_sharp.wav";
                 //string fileName = @"C:\Users\Kody\Documents\Keyano\Keyano\Keyano\Keyano Sounds\piano_G_sharp.wav";
                 AKey.SoundLocation = fileName;
-                AKey.Load();
                 AKey.Play();
             }
         }
