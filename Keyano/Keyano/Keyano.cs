@@ -10,6 +10,7 @@ using System.Runtime.Remoting.Channels;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Windows.Media;
 
 namespace Keyano
 {
@@ -30,19 +31,17 @@ namespace Keyano
         {
             if (keyEventArgs.KeyCode == Keys.A)
             {
-                System.Media.SoundPlayer AKey = new System.Media.SoundPlayer();
-                string fileName = "C:\\Users\\cmart\\Desktop\\Playground\\Keyano\\Keyano\\Keyano\\Keyano Sounds\\piano_A.wav";
-                //string fileName = @"C:\Users\Kody\Documents\Keyano\Keyano\Keyano\Keyano Sounds\piano_A.wav";
-                AKey.SoundLocation = fileName;
-                AKey.Play();
+                var A = new MediaPlayer();
+                A.Open(new Uri("C:\\Users\\cmart\\Desktop\\Playground\\Keyano\\Keyano\\Keyano\\Keyano Sounds\\piano_A.wav"));
+                //A.Open(new Uri(@"C:\Users\Kody\Documents\Keyano\Keyano\Keyano\Keyano Sounds\piano_A.wav"));
+                A.Play();
             }
-            if (keyEventArgs.KeyCode == Keys.G && keyEventArgs.Shift)
+            if (keyEventArgs.KeyCode == Keys.G)
             {
-                System.Media.SoundPlayer AKey = new System.Media.SoundPlayer();
-                string fileName = "C:\\Users\\cmart\\Desktop\\Playground\\Keyano\\Keyano\\Keyano\\Keyano Sounds\\piano_G_sharp.wav";
-                //string fileName = @"C:\Users\Kody\Documents\Keyano\Keyano\Keyano\Keyano Sounds\piano_G_sharp.wav";
-                AKey.SoundLocation = fileName;
-                AKey.Play();
+                var G = new MediaPlayer();
+                G.Open(new Uri("C:\\Users\\cmart\\Desktop\\Playground\\Keyano\\Keyano\\Keyano\\Keyano Sounds\\piano_G_sharp.wav"));
+                //G.Open(new Uri(@"C:\Users\Kody\Documents\Keyano\Keyano\Keyano\Keyano Sounds\piano_G_sharp.wav"));
+                G.Play();
             }
         }
     }
